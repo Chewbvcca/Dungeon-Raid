@@ -1,0 +1,11 @@
+Design for a level:
+- mobs sprites
+- character sprites
+- map tiles
+
+Programming for a level:
+- Death and respawn
+- Load and New Game options
+- Procedural generation for mobs
+- Map for the dungeon
+- Randomizer of mobs according to strict coordinates
